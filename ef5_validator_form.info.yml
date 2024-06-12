@@ -1,0 +1,8 @@
+name: 'ef5_validator_form'
+type: module
+description: 'Validator form created for Nestlé Promo Colaboradores'
+package: custom
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:webform
+  - drupal:core
